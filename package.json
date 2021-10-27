@@ -1,0 +1,13 @@
+{
+  "name": "tta",
+  "version": "1.0.0",
+  "description": "Through the ages tournament tools and website",
+  "main": "index.js",
+  "repository": "https://github.com/skid/tta",
+  "author": "Dushko Jordanovski <jordanovskid@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "type": "module"
+}
