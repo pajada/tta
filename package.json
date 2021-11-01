@@ -1,17 +1,27 @@
 {
-  "name": "tta",
-  "version": "1.0.0",
-  "description": "Through the ages tournament tools and website",
-  "main": "index.js",
+  "name": "next",
+  "private": true,
   "repository": "https://github.com/skid/tta",
-  "author": "Dushko Jordanovski <jordanovskid@gmail.com>",
-  "license": "MIT",
+  "description": "Through the ages tournament tools and website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "compile-data": "yarn tsc && node test-data/index"
+  },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "next": "12.0.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
     "@types/cheerio": "^0.22.30",
     "@types/node": "^16.11.6",
+    "@types/react": "^17.0.33",
+    "eslint": "7",
+    "eslint-config-next": "12.0.2",
     "typescript": "^4.4.4"
   }
 }

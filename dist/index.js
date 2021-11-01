@@ -119,6 +119,6 @@ function processRaw(parsed) {
     }
     return result;
 }
-var r = processRaw(extractRaw("test-data/international-season-14.html"));
+var r = processRaw(extractRaw("international-season-14.html"));
 console.log(JSON.stringify(r, null, 2));
 // processRaw(extractRaw("test-data/intermezzo-season-11.html").slice(4, 5));

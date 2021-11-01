@@ -175,7 +175,7 @@ function processRaw(parsed: RawParsed[]) {
   return result;
 }
 
-const r = processRaw(extractRaw("test-data/international-season-14.html"));
+const r = processRaw(extractRaw("international-season-14.html"));
 
 console.log(JSON.stringify(r, null, 2));
 
