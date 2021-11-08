@@ -431,7 +431,7 @@
             },
             {
               "player": "Cleeve",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -646,7 +646,7 @@
         },
         {
           "player": "Cleeve",
-          "points": null
+          "points": 17
         },
         {
           "player": "Tomtomparking",
@@ -1177,7 +1177,7 @@
             },
             {
               "player": "Yuit",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -1300,7 +1300,7 @@
         },
         {
           "player": "Yuit",
-          "points": null
+          "points": 6
         },
         {
           "player": "vodka",
@@ -1667,7 +1667,7 @@
             },
             {
               "player": "Glamdring",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -1728,7 +1728,7 @@
             },
             {
               "player": "Emiliano",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -1751,7 +1751,7 @@
             },
             {
               "player": "Philihp",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -1896,7 +1896,7 @@
             },
             {
               "player": "Emiliano",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -1958,15 +1958,15 @@
         },
         {
           "player": "Glamdring",
-          "points": null
+          "points": 0
         },
         {
           "player": "Philihp",
-          "points": null
+          "points": 11
         },
         {
           "player": "Emiliano",
-          "points": null
+          "points": 12
         },
         {
           "player": "carygug",
@@ -2015,7 +2015,7 @@
             },
             {
               "player": "shockway",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -2099,7 +2099,7 @@
             },
             {
               "player": "SayNoToGreen",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -2206,7 +2206,7 @@
             },
             {
               "player": "SayNoToGreen",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -2225,7 +2225,7 @@
             },
             {
               "player": "shockway",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -2267,7 +2267,7 @@
             },
             {
               "player": "SayNoToGreen",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         }
@@ -2287,7 +2287,7 @@
         },
         {
           "player": "SayNoToGreen",
-          "points": null
+          "points": 3
         },
         {
           "player": "totsilence",
@@ -2299,7 +2299,7 @@
         },
         {
           "player": "shockway",
-          "points": null
+          "points": 13
         }
       ]
     },
@@ -2577,7 +2577,7 @@
             },
             {
               "player": "Davidmel",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -2628,7 +2628,7 @@
         },
         {
           "player": "Davidmel",
-          "points": null
+          "points": 8
         }
       ]
     },
@@ -3170,7 +3170,7 @@
             },
             {
               "player": "Brandon12129",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -3270,7 +3270,7 @@
         },
         {
           "player": "Brandon12129",
-          "points": null
+          "points": 23
         },
         {
           "player": "wicaksonoadi",
@@ -4157,7 +4157,7 @@
             },
             {
               "player": "schwam",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -4199,7 +4199,7 @@
             },
             {
               "player": "brunoerwin",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -4253,7 +4253,7 @@
         },
         {
           "player": "brunoerwin",
-          "points": null
+          "points": 10
         },
         {
           "player": "Adrianobf",
@@ -4269,7 +4269,7 @@
         },
         {
           "player": "schwam",
-          "points": null
+          "points": 19
         },
         {
           "player": "szaibot",
@@ -6047,7 +6047,7 @@
             },
             {
               "player": "Sergeeeee",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -6247,7 +6247,7 @@
         },
         {
           "player": "Sergeeeee",
-          "points": null
+          "points": 6
         }
       ]
     },
@@ -6544,7 +6544,7 @@
             },
             {
               "player": "cheekysausage",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         }
@@ -6568,7 +6568,7 @@
         },
         {
           "player": "cheekysausage",
-          "points": null
+          "points": 11
         },
         {
           "player": "Rasputin",
@@ -6598,7 +6598,7 @@
             },
             {
               "player": "norkle",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -6663,7 +6663,7 @@
             },
             {
               "player": "LuckyAnesa",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -6724,7 +6724,7 @@
             },
             {
               "player": "DonRaphon",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -6812,7 +6812,7 @@
             },
             {
               "player": "norkle",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -6889,11 +6889,11 @@
         },
         {
           "player": "norkle",
-          "points": null
+          "points": 4
         },
         {
           "player": "LuckyAnesa",
-          "points": null
+          "points": 31
         },
         {
           "player": "modjoaq",
@@ -6905,7 +6905,7 @@
         },
         {
           "player": "DonRaphon",
-          "points": null
+          "points": 17
         }
       ]
     },
@@ -7512,7 +7512,7 @@
             },
             {
               "player": "Rimuel",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -7555,7 +7555,7 @@
         },
         {
           "player": "Rimuel",
-          "points": null
+          "points": 17
         },
         {
           "player": "MetaWiz",
@@ -9157,7 +9157,7 @@
             },
             {
               "player": "vomisa",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -9196,7 +9196,7 @@
         },
         {
           "player": "vomisa",
-          "points": null
+          "points": 6
         },
         {
           "player": "FrancoisFerdinand",
@@ -9563,7 +9563,7 @@
             },
             {
               "player": "Vascostamartins",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -9854,7 +9854,7 @@
         },
         {
           "player": "Vascostamartins",
-          "points": null
+          "points": 8
         },
         {
           "player": "Dinnser",
@@ -9911,7 +9911,7 @@
             },
             {
               "player": "Netopier",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -10195,7 +10195,7 @@
         },
         {
           "player": "Netopier",
-          "points": null
+          "points": 29.5
         }
       ]
     },
@@ -10282,7 +10282,7 @@
             },
             {
               "player": "8bitMeeple",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -10492,7 +10492,7 @@
             },
             {
               "player": "Karpik",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         }
@@ -10508,11 +10508,11 @@
         },
         {
           "player": "8bitMeeple",
-          "points": null
+          "points": 3
         },
         {
           "player": "Karpik",
-          "points": null
+          "points": 22
         },
         {
           "player": "ElDiabloAzul",
@@ -10594,7 +10594,7 @@
             },
             {
               "player": "BlueRay",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -10697,7 +10697,7 @@
             },
             {
               "player": "BlueRay",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -10781,7 +10781,7 @@
             },
             {
               "player": "BlueRay",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -10855,7 +10855,7 @@
         },
         {
           "player": "BlueRay",
-          "points": null
+          "points": 0
         }
       ]
     },
@@ -11210,7 +11210,7 @@
             },
             {
               "player": "vitek",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -11501,7 +11501,7 @@
         },
         {
           "player": "vitek",
-          "points": null
+          "points": 19
         },
         {
           "player": "Vorbrock",
@@ -11864,7 +11864,7 @@
             },
             {
               "player": "ChipsAhoya",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -11929,7 +11929,7 @@
             },
             {
               "player": "madrabbit",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -12155,7 +12155,7 @@
         },
         {
           "player": "ChipsAhoya",
-          "points": null
+          "points": 15
         },
         {
           "player": "xRen1101",
@@ -12167,7 +12167,7 @@
         },
         {
           "player": "madrabbit",
-          "points": null
+          "points": 15
         },
         {
           "player": "DarthVaderDLotS",
@@ -13289,7 +13289,7 @@
             },
             {
               "player": "Sandwhale",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -13473,7 +13473,7 @@
         },
         {
           "player": "Sandwhale",
-          "points": null
+          "points": 19
         },
         {
           "player": "Tamirys",
@@ -13555,7 +13555,7 @@
             },
             {
               "player": "mm34nn",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -13727,7 +13727,7 @@
             },
             {
               "player": "mm34nn",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -13796,7 +13796,7 @@
       "standings": [
         {
           "player": "mm34nn",
-          "points": null
+          "points": 18
         },
         {
           "player": "Cyphen",
@@ -14364,7 +14364,7 @@
             },
             {
               "player": "Rhizom",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -14429,7 +14429,7 @@
             },
             {
               "player": "Rhizom",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -14476,7 +14476,7 @@
         },
         {
           "player": "Rhizom",
-          "points": null
+          "points": 10
         },
         {
           "player": "Rob_Stedman",
@@ -14525,7 +14525,7 @@
             },
             {
               "player": "jzebra",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -14809,7 +14809,7 @@
         },
         {
           "player": "jzebra",
-          "points": null
+          "points": 19
         }
       ]
     },
@@ -14854,7 +14854,7 @@
             },
             {
               "player": "iyakhoop",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -15064,7 +15064,7 @@
             },
             {
               "player": "Eepogi",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -15122,7 +15122,7 @@
         },
         {
           "player": "Eepogi",
-          "points": null
+          "points": 13
         },
         {
           "player": "weisswurst",
@@ -15138,7 +15138,7 @@
         },
         {
           "player": "iyakhoop",
-          "points": null
+          "points": 9
         }
       ]
     },
@@ -15267,7 +15267,7 @@
             },
             {
               "player": "deluks917",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -15332,7 +15332,7 @@
             },
             {
               "player": "MugiwaraNoLofwyr",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -15351,7 +15351,7 @@
             },
             {
               "player": "deluks917",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -15435,7 +15435,7 @@
             },
             {
               "player": "deluks917",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         }
@@ -15443,7 +15443,7 @@
       "standings": [
         {
           "player": "MugiwaraNoLofwyr",
-          "points": null
+          "points": 17
         },
         {
           "player": "mc_esher",
@@ -15459,7 +15459,7 @@
         },
         {
           "player": "deluks917",
-          "points": null
+          "points": 17
         },
         {
           "player": "Swampzombie",
@@ -15663,7 +15663,7 @@
             },
             {
               "player": "MarekP",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -15794,7 +15794,7 @@
         },
         {
           "player": "MarekP",
-          "points": null
+          "points": 24
         },
         {
           "player": "Jii77",
@@ -15927,7 +15927,7 @@
             },
             {
               "player": "eggmancs",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -16127,7 +16127,7 @@
         },
         {
           "player": "eggmancs",
-          "points": null
+          "points": 11.5
         }
       ]
     },
@@ -16321,7 +16321,7 @@
             },
             {
               "player": "chris223",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -16405,7 +16405,7 @@
             },
             {
               "player": "DarthPsyonic",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -16448,7 +16448,7 @@
         },
         {
           "player": "DarthPsyonic",
-          "points": null
+          "points": 24
         },
         {
           "player": "Romendil",
@@ -16456,7 +16456,7 @@
         },
         {
           "player": "chris223",
-          "points": null
+          "points": 15
         }
       ]
     },
@@ -16811,7 +16811,7 @@
             },
             {
               "player": "miniexot",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -16853,7 +16853,7 @@
             },
             {
               "player": "comant",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -16956,7 +16956,7 @@
             },
             {
               "player": "GerrySalinas",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -17090,7 +17090,7 @@
       "standings": [
         {
           "player": "comant",
-          "points": null
+          "points": 14
         },
         {
           "player": "hannes10001",
@@ -17098,11 +17098,11 @@
         },
         {
           "player": "GerrySalinas",
-          "points": null
+          "points": 8
         },
         {
           "player": "miniexot",
-          "points": null
+          "points": 16
         },
         {
           "player": "tbat",
@@ -17469,7 +17469,7 @@
             },
             {
               "player": "Arccos",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -17760,7 +17760,7 @@
         },
         {
           "player": "Arccos",
-          "points": null
+          "points": 16
         },
         {
           "player": "mafiasco",
@@ -17817,7 +17817,7 @@
             },
             {
               "player": "vivimaster",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -18008,7 +18008,7 @@
             },
             {
               "player": "kentropy",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -18069,7 +18069,7 @@
             },
             {
               "player": "kentropy",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         }
@@ -18077,7 +18077,7 @@
       "standings": [
         {
           "player": "kentropy",
-          "points": null
+          "points": 13
         },
         {
           "player": "Olesch",
@@ -18101,7 +18101,7 @@
         },
         {
           "player": "vivimaster",
-          "points": null
+          "points": 19
         }
       ]
     },
@@ -18804,7 +18804,7 @@
             },
             {
               "player": "Szumo",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -19088,7 +19088,7 @@
         },
         {
           "player": "Szumo",
-          "points": null
+          "points": 7
         }
       ]
     },
@@ -19301,7 +19301,7 @@
             },
             {
               "player": "gyova",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -19385,7 +19385,7 @@
             },
             {
               "player": "itsPG",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         }
@@ -19401,7 +19401,7 @@
         },
         {
           "player": "itsPG",
-          "points": null
+          "points": 13
         },
         {
           "player": "lppl",
@@ -19417,7 +19417,7 @@
         },
         {
           "player": "gyova",
-          "points": null
+          "points": 14
         }
       ]
     },
@@ -19978,7 +19978,7 @@
             },
             {
               "player": "theChony",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -20071,7 +20071,7 @@
         },
         {
           "player": "theChony",
-          "points": null
+          "points": 11
         },
         {
           "player": "borz.zrob",
@@ -21587,7 +21587,7 @@
             },
             {
               "player": "oldmutant",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -21648,7 +21648,7 @@
             },
             {
               "player": "oldmutant",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -21671,7 +21671,7 @@
             },
             {
               "player": "oldmutant",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -21710,7 +21710,7 @@
         },
         {
           "player": "oldmutant",
-          "points": null
+          "points": 16
         },
         {
           "player": "logocentric",
@@ -21828,7 +21828,7 @@
             },
             {
               "player": "Mlhovan",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -22035,7 +22035,7 @@
         },
         {
           "player": "Mlhovan",
-          "points": null
+          "points": 13
         },
         {
           "player": "Gervais",
@@ -22161,7 +22161,7 @@
             },
             {
               "player": "Snatser",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -22372,7 +22372,7 @@
         },
         {
           "player": "Snatser",
-          "points": null
+          "points": 24
         },
         {
           "player": "T_error",
@@ -22593,7 +22593,7 @@
             },
             {
               "player": "omniswitcher",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -22709,7 +22709,7 @@
         },
         {
           "player": "omniswitcher",
-          "points": null
+          "points": 1
         }
       ]
     },
@@ -22819,7 +22819,7 @@
             },
             {
               "player": "RogueMeeple",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -22903,7 +22903,7 @@
             },
             {
               "player": "Yahtzee12",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -23006,7 +23006,7 @@
             },
             {
               "player": "Megatron",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         }
@@ -23022,7 +23022,7 @@
         },
         {
           "player": "Yahtzee12",
-          "points": null
+          "points": 3
         },
         {
           "player": "greyshade",
@@ -23030,11 +23030,11 @@
         },
         {
           "player": "Megatron",
-          "points": null
+          "points": 19
         },
         {
           "player": "RogueMeeple",
-          "points": null
+          "points": 17
         },
         {
           "player": "MajorGaz",
@@ -23599,7 +23599,7 @@
             },
             {
               "player": "PopoHappy",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "Urbaneq",
@@ -23692,7 +23692,7 @@
         },
         {
           "player": "PopoHappy",
-          "points": null
+          "points": 10
         },
         {
           "player": "Fullynice",
@@ -23737,7 +23737,7 @@
             },
             {
               "player": "JS619",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "saiggo16",
@@ -23886,7 +23886,7 @@
             },
             {
               "player": "JS619",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "saiggo16",
@@ -24021,7 +24021,7 @@
         },
         {
           "player": "JS619",
-          "points": null
+          "points": 8
         },
         {
           "player": "saiggo16",
@@ -24892,7 +24892,7 @@
             },
             {
               "player": "Monik",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "Kittyclaws",
@@ -25008,7 +25008,7 @@
         },
         {
           "player": "Monik",
-          "points": null
+          "points": 17
         },
         {
           "player": "Kittyclaws",
@@ -25738,7 +25738,7 @@
             },
             {
               "player": "HumptyMonkey",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -25906,7 +25906,7 @@
             },
             {
               "player": "BlaueElise",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -25925,7 +25925,7 @@
             },
             {
               "player": "Lammoth",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -25975,7 +25975,7 @@
       "standings": [
         {
           "player": "BlaueElise",
-          "points": null
+          "points": 19
         },
         {
           "player": "Spoobill",
@@ -25983,11 +25983,11 @@
         },
         {
           "player": "Lammoth",
-          "points": null
+          "points": 5
         },
         {
           "player": "HumptyMonkey",
-          "points": null
+          "points": 1
         },
         {
           "player": "Garri",
@@ -26235,7 +26235,7 @@
             },
             {
               "player": "stripe999",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -26320,7 +26320,7 @@
         },
         {
           "player": "stripe999",
-          "points": null
+          "points": 24
         },
         {
           "player": "Vaibhavaiyar",
@@ -27425,7 +27425,7 @@
             },
             {
               "player": "HansBugge",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -27612,7 +27612,7 @@
             },
             {
               "player": "HansBugge",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         }
@@ -27628,7 +27628,7 @@
         },
         {
           "player": "HansBugge",
-          "points": null
+          "points": 15
         },
         {
           "player": "lolcese",
@@ -27876,7 +27876,7 @@
             },
             {
               "player": "HnNAdventures",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "putritralala",
@@ -27969,7 +27969,7 @@
         },
         {
           "player": "HnNAdventures",
-          "points": null
+          "points": 8
         },
         {
           "player": "Cristiancordeu",
@@ -28657,7 +28657,7 @@
             },
             {
               "player": "KachnickaxD",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -28948,7 +28948,7 @@
         },
         {
           "player": "KachnickaxD",
-          "points": null
+          "points": 22
         },
         {
           "player": "mahawirasd",
@@ -29154,7 +29154,7 @@
             },
             {
               "player": "Ragnard",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -29273,7 +29273,7 @@
         },
         {
           "player": "Ragnard",
-          "points": null
+          "points": 12
         },
         {
           "player": "FunkyLere",
@@ -29357,7 +29357,7 @@
             },
             {
               "player": "RockStar3AG",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -29618,7 +29618,7 @@
         },
         {
           "player": "RockStar3AG",
-          "points": null
+          "points": 1
         }
       ]
     },
@@ -30053,7 +30053,7 @@
             },
             {
               "player": "Diegaccio",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "Sephiroth83",
@@ -30095,7 +30095,7 @@
             },
             {
               "player": "Diegaccio",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -30118,7 +30118,7 @@
             },
             {
               "player": "Sephiroth83",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -30160,7 +30160,7 @@
             },
             {
               "player": "Sephiroth83",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -30236,11 +30236,11 @@
             },
             {
               "player": "KristianMedK",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "Sephiroth83",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "Mejdzr",
@@ -30260,11 +30260,11 @@
         },
         {
           "player": "Diegaccio",
-          "points": null
+          "points": 14.5
         },
         {
           "player": "KristianMedK",
-          "points": null
+          "points": 13
         },
         {
           "player": "Mejdzr",
@@ -30276,7 +30276,7 @@
         },
         {
           "player": "Sephiroth83",
-          "points": null
+          "points": 2
         }
       ]
     },
@@ -30420,7 +30420,7 @@
             },
             {
               "player": "sorecats",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "Flamingpichu",
@@ -30504,7 +30504,7 @@
             },
             {
               "player": "Hanthelmor",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "Vv_Sazer",
@@ -30593,11 +30593,11 @@
         },
         {
           "player": "Hanthelmor",
-          "points": null
+          "points": 25
         },
         {
           "player": "sorecats",
-          "points": null
+          "points": 33
         },
         {
           "player": "scrambled",
@@ -30669,7 +30669,7 @@
             },
             {
               "player": "Bethesda",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -30776,7 +30776,7 @@
             },
             {
               "player": "Bethesda",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -30841,7 +30841,7 @@
             },
             {
               "player": "Bethesda",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -30934,7 +30934,7 @@
         },
         {
           "player": "Bethesda",
-          "points": null
+          "points": 0
         }
       ]
     },
@@ -31105,7 +31105,7 @@
             },
             {
               "player": "TaoTeo",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -31247,7 +31247,7 @@
         },
         {
           "player": "TaoTeo",
-          "points": null
+          "points": 10
         },
         {
           "player": "Dugy",
@@ -31457,7 +31457,7 @@
             },
             {
               "player": "Jaack",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -31588,7 +31588,7 @@
         },
         {
           "player": "Jaack",
-          "points": null
+          "points": 16
         },
         {
           "player": "fader_master",
@@ -32069,7 +32069,7 @@
             },
             {
               "player": "kuzmich",
-              "score": null
+              "score": "RESIGNED"
             },
             {
               "player": "Aluc4rd",
@@ -32153,7 +32153,7 @@
             },
             {
               "player": "kuzmich",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -32199,7 +32199,7 @@
             },
             {
               "player": "kuzmich",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -32246,7 +32246,7 @@
         },
         {
           "player": "kuzmich",
-          "points": null
+          "points": 14
         },
         {
           "player": "Aluc4rd",
@@ -32601,7 +32601,7 @@
             },
             {
               "player": "jokerchai",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -32708,7 +32708,7 @@
             },
             {
               "player": "jokerchai",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -32892,7 +32892,7 @@
         },
         {
           "player": "jokerchai",
-          "points": null
+          "points": 21
         },
         {
           "player": "petrau77",
@@ -32976,7 +32976,7 @@
             },
             {
               "player": "Icarium",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -33186,7 +33186,7 @@
             },
             {
               "player": "Icarium",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -33221,7 +33221,7 @@
         },
         {
           "player": "Icarium",
-          "points": null
+          "points": 4
         },
         {
           "player": "Honigbaer",
@@ -33695,7 +33695,7 @@
             },
             {
               "player": "abobey",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -33714,7 +33714,7 @@
             },
             {
               "player": "brumynut",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -33779,7 +33779,7 @@
             },
             {
               "player": "Tomo",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -33875,11 +33875,11 @@
         },
         {
           "player": "brumynut",
-          "points": null
+          "points": 8
         },
         {
           "player": "abobey",
-          "points": null
+          "points": 11
         },
         {
           "player": "Franzy",
@@ -33895,7 +33895,7 @@
         },
         {
           "player": "Tomo",
-          "points": null
+          "points": 8
         }
       ]
     },
@@ -34047,7 +34047,7 @@
             },
             {
               "player": "hbattosai83",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -34173,7 +34173,7 @@
             },
             {
               "player": "hbattosai83",
-              "score": null
+              "score": "RESIGNED"
             }
           ]
         },
@@ -34204,7 +34204,7 @@
         },
         {
           "player": "hbattosai83",
-          "points": null
+          "points": 5
         },
         {
           "player": "blubeck",

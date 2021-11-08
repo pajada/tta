@@ -83,7 +83,11 @@ function processRaw(parsed) {
             date: item.date,
             scores: item.scores.map(function (score) {
                 var player = score.length === 2 ? score[0] : score[1];
-                var points = score.length === 2 ? score[1] : parseInt(score[2], 10);
+                var points = score.length === 2
+                    ? score[1]
+                    : score[2] === "RESIGNED"
+                        ? "RESIGNED"
+                        : parseInt(score[2], 10);
                 return {
                     player: player,
                     score: points === "TIMED_OUT"

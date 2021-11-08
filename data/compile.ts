@@ -138,7 +138,12 @@ function processRaw(parsed: RawParsed[]) {
       date: item.date,
       scores: item.scores.map((score) => {
         const player = score.length === 2 ? score[0] : score[1];
-        const points = score.length === 2 ? score[1] : parseInt(score[2], 10);
+        const points =
+          score.length === 2
+            ? score[1]
+            : score[2] === "RESIGNED"
+            ? "RESIGNED"
+            : parseInt(score[2], 10);
         return {
           player,
           score:
