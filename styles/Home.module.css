@@ -33,6 +33,11 @@
   text-decoration: none;
 }
 
+.description a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
 .title a:hover,
 .title a:focus,
 .title a:active {
@@ -63,7 +68,6 @@
   font-size: 1.1rem;
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
     Bitstream Vera Sans Mono, Courier New, monospace;
-  cursor: pointer;
 }
 
 .grid {
@@ -71,7 +75,11 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  max-width: 800px;
+
+  width: 100%;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: solid 1px #aaa;
 }
 
 .card {
@@ -83,7 +91,7 @@
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  max-width: 300px;
+  width: 300px;
 }
 
 .card:hover,
@@ -107,6 +115,22 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.table {
+  width: 100%;
+}
+
+.table td {
+  border-bottom: solid 1px #efefef;
+}
+
+.table td {
+  padding: 4px;
+}
+
+.table td:last-child {
+  text-align: right;
 }
 
 @media (max-width: 600px) {

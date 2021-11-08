@@ -1,6 +1,10 @@
-import cheerio from "cheerio";
-import fs from "fs";
-import path from "path";
+// import { fileURLToPath } from "url";
+import * as cheerio from "cheerio";
+import { readFileSync, writeFileSync } from "fs";
+import { join, resolve } from "path";
+
+// const __filename = fileURLToPath(import.meta.url);
+// const __dirname = dirname(__filename);
 
 type RawParsed = {
   name: string;
@@ -59,7 +63,7 @@ function parseBatch(elem: cheerio.Cheerio, $: cheerio.Root) {
 }
 
 function extractRaw(file: string) {
-  const $ = cheerio.load(fs.readFileSync(path.join(__dirname, file)));
+  const $ = cheerio.load(readFileSync(join(__dirname, file)));
 
   let batch = 0;
   let parsed: RawParsed[] = [];
@@ -175,8 +179,10 @@ function processRaw(parsed: RawParsed[]) {
   return result;
 }
 
-const r = processRaw(extractRaw("international-season-14.html"));
+export {};
 
-console.log(JSON.stringify(r, null, 2));
-
-// processRaw(extractRaw("test-data/intermezzo-season-11.html").slice(4, 5));
+const processed = processRaw(extractRaw("international-season-14.html"));
+writeFileSync(
+  resolve(__dirname, "../public/international-season-14.json"),
+  JSON.stringify(processed, null, 2)
+);

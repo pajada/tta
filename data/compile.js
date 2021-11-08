@@ -1,11 +1,9 @@
 "use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
-Object.defineProperty(exports, "__esModule", { value: true });
-var cheerio_1 = __importDefault(require("cheerio"));
-var fs_1 = __importDefault(require("fs"));
-var path_1 = __importDefault(require("path"));
+exports.__esModule = true;
+// import { fileURLToPath } from "url";
+var cheerio = require("cheerio");
+var fs_1 = require("fs");
+var path_1 = require("path");
 /**
  * Extracts all the games from a batch
  */
@@ -40,14 +38,14 @@ function parseBatch(elem, $) {
                 name: name,
                 replayCode: replayCode,
                 scores: scores,
-                date: date,
+                date: date
             });
         });
     });
     return allGames;
 }
 function extractRaw(file) {
-    var $ = cheerio_1.default.load(fs_1.default.readFileSync(path_1.default.join(__dirname, file)));
+    var $ = cheerio.load((0, fs_1.readFileSync)((0, path_1.join)(__dirname, file)));
     var batch = 0;
     var parsed = [];
     while (1) {
@@ -64,7 +62,7 @@ function extractRaw(file) {
 }
 var scoring = {
     3: { 1: 5, 2: 2, 3: 0 },
-    4: { 1: 6, 2: 3, 3: 1, 4: 0 },
+    4: { 1: 6, 2: 3, 3: 1, 4: 0 }
 };
 function processRaw(parsed) {
     var result = {};
@@ -77,7 +75,7 @@ function processRaw(parsed) {
         var group = (result[league][groupNumber] = result[league][groupNumber] || {
             number: groupNumber,
             games: [],
-            standings: [],
+            standings: []
         });
         var game = {
             name: "Game " + gameNumber,
@@ -90,9 +88,9 @@ function processRaw(parsed) {
                     player: player,
                     score: points === "TIMED_OUT"
                         ? "TIMED OUT"
-                        : points,
+                        : points
                 };
-            }),
+            })
         };
         game.scores.forEach(function (score, index) {
             var standing = group.standings.find(function (s) { return s.player === score.player; });
@@ -119,6 +117,5 @@ function processRaw(parsed) {
     }
     return result;
 }
-var r = processRaw(extractRaw("international-season-14.html"));
-console.log(JSON.stringify(r, null, 2));
-// processRaw(extractRaw("test-data/intermezzo-season-11.html").slice(4, 5));
+var processed = processRaw(extractRaw("international-season-14.html"));
+(0, fs_1.writeFileSync)((0, path_1.resolve)(__dirname, "../public/international-season-14.json"), JSON.stringify(processed, null, 2));
